@@ -1,1 +1,1 @@
-# NewsApp-MERN
+spice fusion
